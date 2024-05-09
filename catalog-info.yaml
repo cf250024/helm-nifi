@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: helm-nifi
+  annotations:
+    github.com/project-slug: cf250024/helm-nifi
+spec:
+  type: other
+  lifecycle: unknown
+  owner: cf250024
